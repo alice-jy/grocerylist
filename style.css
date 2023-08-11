@@ -1,0 +1,31 @@
+body{
+
+    background: rgb(226, 184, 154);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h1{
+
+    text-align: center;    
+    
+
+}
+
+.storage{
+
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.stored{
+    font-family: cursive;
+    display: inline-block;
+    background-color: rgb(220, 157, 113);
+}
+
+h2{
+    border-width: 1px;
+}
+
